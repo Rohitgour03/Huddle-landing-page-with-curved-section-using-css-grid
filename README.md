@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/Rohitgour03/Huddle-landing-page-with-curved-section-using-css-grid/)
+- Live Site URL: [live solution](https://rohitgour03.github.io/Huddle-landing-page-with-curved-section-using-css-grid/)
 
 ## My process
 
