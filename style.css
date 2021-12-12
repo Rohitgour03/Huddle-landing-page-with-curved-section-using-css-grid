@@ -187,7 +187,7 @@ h2 {
 
 /* Stats Section */
 
-section.stats-section {
+.stats-section {
     background: url(./images/bg-section-top-mobile-1.svg) bottom center no-repeat;
     background-size: contain;
 }
