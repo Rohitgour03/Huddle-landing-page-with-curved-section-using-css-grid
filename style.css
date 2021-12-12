@@ -446,7 +446,7 @@ footer {
         column-gap: 2rem;
         padding: 3rem 0 0;
     }
-    section.stats-section {
+    .stats-section {
         background: url(./images/bg-section-top-desktop-1.svg) center bottom no-repeat;
         background-size: contain;
         padding: 3rem 0;
